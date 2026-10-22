@@ -1,0 +1,5 @@
+clean-spice
+*.o
+*.pkg.tar.*
+src/
+pkg/
