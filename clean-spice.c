@@ -1,7 +1,7 @@
 /*
  * clean-spice: Minimal, zero-header, frameless SPICE client for Wayland tiling window managers.
  * Author: right9code
- * License: MIT License (Free for personal and open-source use)
+ * License: Non-Commercial Use Only (Personal & Educational Use Only. Commercial Use Strictly Prohibited).
  */
 
 #include <gtk/gtk.h>

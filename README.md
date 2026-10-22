@@ -104,4 +104,4 @@ fi
 ## Author & License
 
 - **Author:** [right9code](https://github.com/right9code)
-- **License:** MIT License. Free for personal and open-source use.
+- **License:** Non-Commercial License (Personal & Educational Use Only). **Commercial use of any kind is strictly prohibited.** See [LICENSE](LICENSE) for details.
